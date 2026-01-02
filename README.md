@@ -8,4 +8,4 @@
 Me tornar um desenvolvedor Front-End e criar projetos que sejam úteis e divertidos.
 
 ### 📫 Como me encontrar
-- GitHub: [@Mike] (https://github.com/Mike18-m)
+- GitHub: [@mike] (https://github.com/mike-marques)
