@@ -1,1 +1,11 @@
-# Mike-Marques
+## 👋 Olá, eu sou o Mike!
+
+🌱 Estou começando na programação  
+💻 Atualmente na trilha **Front-End**  
+🎨 Apaixonado por criar interfaces legais e aprender novas tecnologias  
+
+### 🌟 Objetivo
+Me tornar um desenvolvedor Front-End e criar projetos que sejam úteis e divertidos.
+
+### 📫 Como me encontrar
+- GitHub: [@Mike] (https://github.com/Mike18-m)
